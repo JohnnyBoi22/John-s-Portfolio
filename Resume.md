@@ -10,4 +10,4 @@ Extracirriculars
 
 
 Skills
-
+Can eat chicken
