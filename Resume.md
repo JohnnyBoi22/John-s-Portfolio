@@ -1,13 +1,13 @@
-John Resume
+#John Resume
 
-Work Expeirence
-
-
-Education
+##Work Expeirence
 
 
-Extracirriculars
+##Education
 
 
-Skills
+##Extracirriculars
+
+
+##Skills
 Can eat chicken
