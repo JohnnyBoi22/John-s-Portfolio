@@ -1,18 +1,18 @@
 # John's Resume
 
 ## Work Expeirence
--Attends McIntosh High School - 2022-Present Day
--Booth Middle School - 2019-2021
--K-5 - 2012-2018
+1. Attends McIntosh High School - 2022-Present Day
+2. Booth Middle School - 2019-2021
+3. K-5 - 2012-2018
 ## Education
--K-9th Education
+1. K-9th Education
 
 ## Extracirriculars
--Boy Scouts
--Cross Country
--DeMolay
+1. Boy Scouts
+2. Cross Country
+3. DeMolay
 
 ## Skills
 
 ## Accomplishments
--Eagle Scout
+1. Eagle Scout
