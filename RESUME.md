@@ -12,7 +12,11 @@
 2. Cross Country
 3. DeMolay
 
-## Skills
+## Hobbies
+1. Camping
+2. Drawing
+3. Running
+4. Gaming
 
 ## Accomplishments
 1. Eagle Scout
