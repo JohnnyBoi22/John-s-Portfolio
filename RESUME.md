@@ -4,6 +4,9 @@
 1. Attends McIntosh High School - 2022-Present Day
 2. Booth Middle School - 2019-2021
 3. K-5 - 2012-2018
+4. Beta Club Volunteer
+5. Masonic Volunteer
+6. Scout Volunteer
 ## Education
 1. K-9th Education
 
