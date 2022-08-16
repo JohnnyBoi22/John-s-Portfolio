@@ -9,7 +9,7 @@
 6. Scout Volunteer
 ## Education
 1. K-9th Education
-
+2. CTE IST McIntosh High School
 ## Extracirriculars
 1. Boy Scouts
 2. Cross Country
