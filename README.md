@@ -21,5 +21,4 @@ ONE DAT 1
 ## Contents
 - [RESUME](RESUME.md)
 - [ProgrammingLanguages](Programming-Languages.md)
-
 -[Binary-Logic](Binary-Logic.md)
