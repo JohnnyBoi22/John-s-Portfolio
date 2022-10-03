@@ -25,3 +25,6 @@
 
 ## Accomplishments
 1. Eagle Scout
+
+## KEYBOARD SKILLS
+1. Absolutely lit
