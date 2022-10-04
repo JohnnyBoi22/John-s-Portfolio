@@ -28,3 +28,7 @@
 
 ## KEYBOARD SKILLS
 1. Absolutely lit
+2. J, F, Space
+3. U, R, and K
+4. D, E, I
+5. 40 wpm
